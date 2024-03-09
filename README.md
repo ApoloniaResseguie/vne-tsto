@@ -1,1 +1,8 @@
-# vne-tsto
+still under construction
+
+
+### Installation
+```
+npm install
+
+```
